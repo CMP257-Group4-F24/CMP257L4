@@ -1,0 +1,60 @@
+body{
+    background-color: antiquewhite;
+    font-family: 'Courier New', Courier, monospace;
+}
+header{
+    background-color: blanchedalmond;
+    text-align: center;
+}
+form{
+    background-color: azure;
+    font-size: larger;
+    padding: 40px;
+
+}
+footer{
+    background-color: beige;
+}
+h1{
+    font-size: xx-large;
+}
+h2{
+    font-size: larger;
+}
+.solid{
+    border-style: solid;
+    border-color:brown;
+}
+#my_description{
+    margin-bottom: 30px;
+}
+
+cite:hover{
+    background-color: aqua;
+    text-decoration: underline;
+}
+#Departments{
+    margin-top: 35px;
+    margin-bottom: 35px;
+}
+#my_reset{
+    background-color: rgb(238, 199, 208);
+    border-radius: 20px;
+    border-color: rgb(238, 36, 154);
+    border-width: 8px;
+}
+#my_submit{
+    background-color: rgb(159, 158, 221);
+    border-radius: 20px;
+    border-color: rgb(90, 52, 151);
+    border-width: 8px;
+}
+nav{
+    background-color: rgb(180, 127, 127);
+}
+.card-body{
+    background-color:rgb(214, 199, 179);
+}
+.dropdown{
+    margin-bottom: 30px;
+}
